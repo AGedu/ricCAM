@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-## Mattia-cam, applicazione realizzata con ReactJS e NodeJS.
+## ricCAM, applicazione realizzata con ReactJS e NodeJS.
 
-Ho realizzato questa applicazione partendo da questa # inserire link #, che era l'applicazione originale realizzata appunto da Mattia. All'inizio non conoscevo ne React ne Node, per chi dovesse essere nella stessa situazione possono risultare utili i seguenti link: 
+Ho realizzato questa applicazione partendo da questa # https://github.com/AGedu/mattiaCAM #, che era l'applicazione originale realizzata appunto da Mattia. All'inizio non conoscevo ne React ne Node, per chi dovesse essere nella stessa situazione possono risultare utili i seguenti link: 
 
 -
 -
@@ -40,7 +40,7 @@ e se dovessero serivre, ci sono anche questi link utili in caso di errori o inco
 
 
 =======
-# Mattia-cam, applicazione realizzata con ReactJS e NodeJS.
+# ricCAM, applicazione realizzata con ReactJS e NodeJS.
 
 ### Preparativi
 
